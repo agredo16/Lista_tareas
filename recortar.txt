@@ -1,0 +1,2 @@
+Recuerden que en cada punto esta especifica do lo que se debe hacer y lo que se debe entregar , aparte de eso se debe trabajar en una rama difirente de la master 
+nadie debe tocar la master a esepcion de la persona encargada de hacer la union
